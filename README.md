@@ -1,6 +1,6 @@
 # Whatsapp Blaster Selenium
 
-Simple script to automate broadcast WhatsApp message. Written using JavaScript and Selenium.
+Simple script to automate broadcast WhatsApp message. Written using Node.js and Selenium.
 
 ## How To use
 
